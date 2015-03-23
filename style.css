@@ -1,0 +1,62 @@
+a {
+	text-decoration: none;
+	color: grey;
+}
+
+a:hover {
+	color: blue;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: rgb(238, 253, 255)
+}
+
+h1 {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+.bike, .transit, .walk {
+	width: 100px;
+	height: 40px;
+  	margin: auto;
+  	display: inline-block;
+  	border-radius: 5px;
+  	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.bike {
+	background-color: rgb(244, 216, 28);
+}
+
+.canvas {
+	text-align: center;
+}
+
+.key {
+	margin: 20px auto 0px auto;
+	width: 800px;
+	line-height: 40px;
+	vertical-align: top;
+	text-align: center;	
+}
+
+.transit {
+  	background-color: rgb(28, 57, 187);
+}
+
+.walk {
+  	background-color: rgb(153, 22, 19);
+}
+ 
+
+
+
+
+
+
